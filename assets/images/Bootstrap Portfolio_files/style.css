@@ -1,0 +1,53 @@
+
+footer {
+  padding: 30px 0;
+  clear: both;
+  font-size: 12px;
+  color: #fff;
+  color: #ccc;
+  text-align: center;
+  background: #666;
+  border-top: 8px solid #4aaaa5;
+}
+.navbar-brand{
+  margin-left: 30px;
+}
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    color: #777;
+}
+.main {
+
+border-style: solid;
+}
+
+ul{
+align-items: center;
+}
+li{
+  display: inline;
+}
+.col-xs-12, col-sm-12,  col-m-8, col-lg-8, col-xl-8
+{
+
+
+}
+
+input[type=text], select, textare{
+width: 100%;
+padding: 12px;
+border: 1px solid #ccc;
+box-sizing: border-box;
+margin-top: 6px;
+margin-bottom: 16px;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+input[type=submit] {
+background-color:#4aaaa5;
+color: white;
+padding: 12px 20px;
+border: none;
+}
